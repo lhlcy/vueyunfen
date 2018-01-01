@@ -1,5 +1,5 @@
 # yunfen-admin
-
+技术栈：vue+webpack+es6+vuex+vue-router
 > A Vue.js project
 
 ## Build Setup
