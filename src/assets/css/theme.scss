@@ -1,0 +1,116 @@
+@import "./variable.scss";
+
+.page_container{
+  height: 100%;
+}
+
+.table_container{
+  margin-bottom: 20px;
+}
+
+.el-tooltip__popper{
+  max-width: 300px;
+  line-height: 1.5;
+  font-size: 13px;
+}
+
+.el-button{
+  a{
+    color: #fff;
+  }
+}
+
+.header-title{
+  color: #666;
+  font-size: 16px;
+  border-left: 3px solid #20a0ff;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.row-item{
+  margin-bottom: 40px;
+
+  .el-col{
+    margin-bottom: 20px;
+  }
+}
+
+.f12{
+  font-size: 12px;
+}
+
+.f14{
+  font-size: 14px;
+}
+
+.f16{
+  font-size: 16px;
+}
+
+.f18{
+  font-size: 18px;
+}
+
+.f20{
+  font-size: 20px;
+}
+
+.f22{
+  font-size: 22px;
+}
+
+.f24{
+  font-size: 24px;
+}
+
+.f26{
+  font-size: 26px;
+}
+
+.fb{
+  font-weight: bold;
+}
+
+.bg_white {
+  background: #fff;
+}
+
+.c_white{
+  color: #fff;
+}
+
+.c_gray3{
+  color: #333;
+}
+
+.c_gray6{
+  color: #666;
+}
+
+.c_gray9{
+  color: #999;
+}
+
+.c_red{
+  color: #FF4949;
+}
+
+.c_yellow{
+  color: #F7BA2A;
+}
+
+.c_green{
+  color: #13CE66;
+}
+
+.c_blue{
+  color: #20A0FF;
+}
+
+.router-fade-enter-active, .router-fade-leave-active {
+    transition: opacity .1s;
+}
+.router-fade-enter, .router-fade-leave-active {
+    opacity: 0;
+}
